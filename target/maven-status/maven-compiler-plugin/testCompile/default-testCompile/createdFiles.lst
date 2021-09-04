@@ -1,1 +1,7 @@
+utilities\SpartanNewBase.class
+serenity\spartan\editor\SpartanEditorPostTest.class
 serenity\spartan\admin\SpartanAdminGetTest.class
+utilities\ConfigReader.class
+serenity\spartan\ConfigDemoTest.class
+utilities\SpartanUtil.class
+serenity\bookit\BookitEnvTest.class

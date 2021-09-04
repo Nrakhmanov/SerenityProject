@@ -1,4 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Spartan admin get test","Get one spartan assertion","SUCCESS","2021-09-04T10:35:25.29-06:00[America/Denver]","0.0","3.08"
-"Spartan admin get test","Get onespartan","SUCCESS","2021-09-04T10:35:28.39-06:00[America/Denver]","0.0","0.52"
-"Spartan admin get test","Get allspartan","SUCCESS","2021-09-04T10:35:28.923-06:00[America/Denver]","0.0","0.39"
+"Bookit env test","Test1","SUCCESS","2021-09-04T14:29:17.782-06:00[America/Denver]","0.0","0.62"
